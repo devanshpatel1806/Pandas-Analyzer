@@ -1,0 +1,51 @@
+Date,Product,Category,Quantity,Unit_Price,Revenue
+2026-01-03,Laptop,Electronics,2,45000,90000
+2026-01-05,Notebook,Stationery,10,50,500
+2026-01-08,Headphones,Electronics,3,1500,4500
+2026-01-12,Pen Pack,Stationery,8,120,960
+2026-01-15,Office Chair,Furniture,1,6500,6500
+2026-01-19,Mouse,Electronics,5,700,3500
+2026-01-22,Desk,Furniture,1,8000,8000
+2026-01-25,Water Bottle,Accessories,6,350,2100
+2026-01-28,Backpack,Accessories,2,1800,3600
+2026-01-30,Keyboard,Electronics,4,1200,4800
+2026-02-02,Desk,Furniture,2,8000,16000
+2026-02-04,Notebook,Stationery,15,50,750
+2026-02-06,Keyboard,Electronics,4,1200,4800
+2026-02-09,Water Bottle,Accessories,6,350,2100
+2026-02-11,Backpack,Accessories,3,1800,5400
+2026-02-14,Laptop,Electronics,1,45000,45000
+2026-02-16,Pen Pack,Stationery,12,120,1440
+2026-02-18,Office Chair,Furniture,2,6500,13000
+2026-02-21,Headphones,Electronics,6,1500,9000
+2026-02-24,Mouse,Electronics,7,700,4900
+2026-02-27,Notebook,Stationery,20,50,1000
+2026-03-01,Laptop,Electronics,1,45000,45000
+2026-03-04,Pen Pack,Stationery,12,120,1440
+2026-03-06,Office Chair,Furniture,2,6500,13000
+2026-03-09,Headphones,Electronics,6,1500,9000
+2026-03-11,Desk,Furniture,1,8000,8000
+2026-03-13,Water Bottle,Accessories,10,350,3500
+2026-03-16,Mouse,Electronics,7,700,4900
+2026-03-18,Backpack,Accessories,4,1800,7200
+2026-03-22,Keyboard,Electronics,5,1200,6000
+2026-03-25,Notebook,Stationery,18,50,900
+2026-03-28,Water Bottle,Accessories,8,350,2800
+2026-04-02,Backpack,Accessories,4,1800,7200
+2026-04-04,Keyboard,Electronics,5,1200,6000
+2026-04-06,Laptop,Electronics,2,45000,90000
+2026-04-09,Notebook,Stationery,14,50,700
+2026-04-11,Office Chair,Furniture,1,6500,6500
+2026-04-14,Headphones,Electronics,4,1500,6000
+2026-04-17,Pen Pack,Stationery,10,120,1200
+2026-04-20,Desk,Furniture,2,8000,16000
+2026-04-23,Water Bottle,Accessories,7,350,2450
+2026-04-26,Mouse,Electronics,9,700,6300
+2026-05-01,Laptop,Electronics,1,45000,45000
+2026-05-03,Backpack,Accessories,5,1800,9000
+2026-05-06,Notebook,Stationery,25,50,1250
+2026-05-09,Keyboard,Electronics,6,1200,7200
+2026-05-12,Office Chair,Furniture,3,6500,19500
+2026-05-15,Headphones,Electronics,5,1500,7500
+2026-05-19,Pen Pack,Stationery,16,120,1920
+2026-05-23,Water Bottle,Accessories,12,350,4200
