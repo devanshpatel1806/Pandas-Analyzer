@@ -320,7 +320,7 @@ Displays changes or trends across ordered data.
 
 Shows the proportions of different categories.
 
-![Pie Chart](screenshots/pie_chart.png)
+![Pie Chart](pie_chart.png)
 
 ### 9. Heatmap
 
