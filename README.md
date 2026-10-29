@@ -136,7 +136,6 @@ Pandas_Analyzer_Data_Visualization/
     ├── line_chart.png
     ├── pie_chart.png
     ├── heatmap.png
-    └── search_sort_filter.png
 ```
 
 **Note:** The screenshot folder and `sample_sales_data.csv` are optional. The sample CSV is available only if you create it using the optional sample-data cell. Your actual notebook and dataset filenames may differ.
@@ -279,43 +278,43 @@ Add screenshots of your actual notebook outputs to a folder named `screenshots` 
 
 Shows the interactive menu used to select different data analysis operations.
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
 ### 2. Dataset Loading
 
 Shows the dataset after loading the CSV file into Pandas.
 
-![Dataset Loading](screenshots/load_dataset.png)
+![Dataset Loading](load_dataset.png)
 
 ### 3. Explore Data
 
 Displays dataset rows, column names, data types, and basic information.
 
-![Explore Data](screenshots/explore_data.png)
+![Explore Data](explore_data.png)
 
 ### 4. Data Cleaning
 
 Demonstrates the available operations for handling missing values and duplicate records.
 
-![Data Cleaning](screenshots/data_cleaning.png)
+![Data Cleaning](data_cleaning.png)
 
 ### 5. Descriptive Statistics
 
 Shows summary statistics calculated from the dataset.
 
-![Descriptive Statistics](screenshots/statistics.png)
+![Descriptive Statistics](statistics.png)
 
 ### 6. Bar Chart
 
 Compares values across different categories.
 
-![Bar Chart](screenshots/bar_chart.png)
+![Bar Chart](bar_chart.png)
 
 ### 7. Line Chart
 
 Displays changes or trends across ordered data.
 
-![Line Chart](screenshots/line_chart.png)
+![Line Chart](line_chart.png)
 
 ### 8. Pie Chart
 
@@ -327,15 +326,13 @@ Shows the proportions of different categories.
 
 Displays numerical patterns or relationships using colors.
 
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](/heatmap.png)
 
 ### 10. Search, Sort, and Filter
 
 Demonstrates searching for values, sorting records, and filtering data.
 
-![Search, Sort, and Filter](screenshots/search_sort_filter.png)
-
-**Important:** These image paths are examples. GitHub will display an image only when you upload a screenshot with the matching filename. Remove any screenshot section for a feature you have not implemented or captured.
+![Search, Sort, and Filter](search_sort_filter.png)
 
 ## 🧪 Testing
 
